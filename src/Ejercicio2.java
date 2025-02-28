@@ -3,8 +3,8 @@ import java.util.Scanner;
 
 public class Ejercicio2 {
     public static void main(String[] args) {
-        Random ale = new Random(); // Cambiamos la variable a "ale"
-        int numeroGanador = ale.nextInt(50) + 1; // Genera un número aleatorio entre 1 y 50
+        Random ale = new Random();
+        int numeroGanador = ale.nextInt(50) + 1;
         int intentos = 3;
         boolean adivinado = false;
 
