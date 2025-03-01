@@ -3,3 +3,5 @@ En estos ejercicios aprendí a generar números aleatorios dentro de un rango es
 
 # 28/02/2025
 En estos ejercicios aprendí a crear programas en Java que interactúan con el usuario y realizan tareas específicas. Usé la clase Scanner para recibir entradas, como números o datos personales, y la clase Random para generar números aleatorios, lo que fue útil en juegos como adivinar un número o simular un casino. También practiqué el uso de estructuras de control como if, else if, else y while, que me permitieron tomar decisiones y repetir acciones basadas en condiciones. Además, realicé cálculos matemáticos, como el índice de masa corporal (IMC), y aprendí a formatear la salida con printf para mostrar resultados de manera clara y precisa.
+
+### BRAYAN ESTEBAN PINZON TORRES (COLDPASTEL)
